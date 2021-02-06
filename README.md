@@ -1,6 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Vanderson Henrique</h1>
 <h3 align="center">Um estudante de desenvolvimento de software full-stack</h3>
 
+
+- Acesse meu <a href="https://gitconnected.com/vanderson-henrique/resume" target="_blank">Curriculum vitæ</a> para mais informações.
+
 - 📫 Como me encontrar? **vhb1000@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
