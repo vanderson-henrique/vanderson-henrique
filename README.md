@@ -1,10 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou Vanderson Henrique</h1>
-<h3 align="center">Um estudante de desenvolvimento de software full-stack</h3>
+<h3 align="center">Um empolgado estudante, afim de ser um desenvolvedor de software full-stack Júnior</h3>
 
+<h4>O que vocês podem (ou não) querer saber sobre mim :sweat_smile:</h4>
 
-- Acesse meu <a href="https://gitconnected.com/vanderson-henrique/resume" target="_blank">Curriculum vitæ</a> para mais informações.
-
+- :computer: Passei por 3 incríveis meses em meio ao mundo do Front-end, desenvolvendo diversos projetos (que podem ser vistos pinados nesta página);
+- :closed_lock_with_key: Estou iniciando meus estudos em Back-end, previsão de conclusão deste módulo: Abril/2021;
+- :video_game: Meus maiores hobbies são vídeo-game (PES, por favor) e cinema;
+- :mortar_board: Sou formado em Sistemas de Informação;
+- :rocket: Decidi investir um tempo para minha qualificação profissional, e estudar desenvolvimento de Software na Trybe;
 - 📫 Como me encontrar? **vhb1000@hotmail.com**
+- :page_facing_up: Acesse meu <a href="https://gitconnected.com/vanderson-henrique/resume" target="_blank">Curriculum vitæ</a> para mais informações.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
