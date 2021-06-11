@@ -4,7 +4,7 @@
 <h3>O que vocês podem (ou não) querer saber sobre mim :sweat_smile:</h3>
 
 - :computer: Passei por 3 incríveis meses em meio ao mundo do Front-end, desenvolvendo diversos projetos (que podem ser vistos pinados nesta página);
-- :closed_lock_with_key: Estou iniciando meus estudos em Back-end, previsão de conclusão deste módulo: Abril/2021;
+- :closed_lock_with_key: Passei 4 meses estudando Back-end onde pude me aprofundar em Node e banco de dados. Esta então se tornou a minha nova paixão no desenvolvimento;
 - :video_game: Meus maiores hobbies são vídeo-game (PES, por favor) e cinema;
 - :mortar_board: Sou formado em Sistemas de Informação;
 - :rocket: Decidi investir um tempo para minha qualificação profissional, e estudar desenvolvimento de Software na Trybe;
